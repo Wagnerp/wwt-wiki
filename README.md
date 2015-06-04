@@ -1,4 +1,4 @@
-# OpenWWT-Wiki
+# WWT-Wiki
 Repository of Open WorldWide Telescope Project Information
 
 Please read the Repository's Wiki
