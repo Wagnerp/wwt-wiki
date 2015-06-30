@@ -1,3 +1,5 @@
+Copyright (C) .NET Foundation
+
 # WWT-Wiki
 Repository of Open WorldWide Telescope Project Information.
 
@@ -10,3 +12,6 @@ Note: This repository and its wiki are not quite ready yet, and we are not activ
 * https://github.com/WorldWideTelescope/wwt-windows-client
 * https://github.com/WorldWideTelescope/wwt-web-client
 * https://github.com/WorldWideTelescope/wwt-website
+* 
+
+[WorldWide Telescope](http://worldwidetelescope.org) is a [.NET Foundation](http://dotnetfoundation.org) project
