@@ -1,7 +1,7 @@
 Copyright (C) .NET Foundation
 
 # WWT-Wiki
-Repository of Open WorldWide Telescope Project Information.
+Repository of WorldWide Telescope Project Information.
 
 WorldWide Telescope (WWT) enables you to explore the universe, bringing together imagery from the best ground- and space-based telescopes in the world and combining it with 3D navigation, data visualization, and more. Please see [WorldWideTelescope.org](http://WorldWideTelescope.org/) for an overview.
 
